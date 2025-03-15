@@ -1,0 +1,10 @@
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.exe.config
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.exe
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\bin\Debug\To-Do List Application.pdb
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.csproj.AssemblyReference.cache
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To_Do_List_Application.frmToDoList.resources
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To_Do_List_Application.Properties.Resources.resources
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.csproj.GenerateResource.cache
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.csproj.CoreCompileInputs.cache
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.exe
+C:\Users\irmak\source\repos\To-Do List Application\To-Do List Application\obj\Debug\To-Do List Application.pdb
